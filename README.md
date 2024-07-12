@@ -34,4 +34,4 @@ To use this application, clone the repository and open it in Android Studio.
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/your-username/MemeShare.git
+   git clone https://github.com/Arpan550/Meme-Sharing-Android-Application.git
